@@ -6,6 +6,9 @@ export default function Posts() {
       <div className='posts'>
         <Post />
         <Post />
+        <Post />
+        <Post />
+        <Post />
         </div>
     )
   }
