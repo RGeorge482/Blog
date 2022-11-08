@@ -16,12 +16,14 @@ export default function SideBar() {
                     <li className="sidebarListItem">HTML</li>
                     <li className="sidebarListItem">CSS</li>
                     <li className="sidebarListItem">Java Script</li>
-                    <li className="sidebarListItem">React</li>
-                    <li className="sidebarListItem">Java</li>
-                    <li className="sidebarListItem">Python</li>
-                    <li className="sidebarListItem">Operating System</li>
                 </ul>
             </div>
+            <div className="sidebarItem">
+                <span className="sidebarTitle">Follow Us</span>
+                <div className="sidebarSocial">
+                <i className=" sidebarIcon fa-brands fa-facebook-square"></i>
+                </div>
+            </div> 
         </div>
     )
 }
