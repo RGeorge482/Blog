@@ -29,3 +29,18 @@
     color: #222222;
     font-weight: 600;
   }
+
+  .sidebarItem > img {
+    margin-top: 10px;
+    width: 250px;
+    height: 250px;
+  }
+  
+  .sidebarItem > p {
+    padding: 20px;
+  }
+  
+  .sidebarList {
+    list-style-type: none;
+    margin-bottom: 20px;
+  }
