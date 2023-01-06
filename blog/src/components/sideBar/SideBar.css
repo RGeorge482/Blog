@@ -32,15 +32,15 @@
 
   .sidebarItem > img {
     margin-top: 30px;
-    width: 250px;
-    height: 350px;
+    width: 150px;
+    height: 150px;
   }
   
   .sidebarItem > p {
-    padding: 20px;
+    padding: 25px;
   }
   
   .sidebarList {
     list-style-type: none;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
   }
