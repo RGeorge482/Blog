@@ -38,3 +38,17 @@
   .singlePostIcon:last-child {
     color: tomato;
   }
+
+  .singlePostInfo {
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    color: #72521d;
+    font-family: "Varela Round", Arial, Helvetica, sans-serif;
+  }
+  
+  
+  .singlePostAuthor{
+    margin-left: 10px;
+  }
