@@ -52,3 +52,15 @@
   .singlePostAuthor{
     margin-left: 10px;
   }
+
+  .singlePostDesc {
+    color: #666;
+    font-size: 30px;
+    line-height: 20px;
+  }
+  
+  .singlePostDesc::first-letter {
+    margin-left: 10px;
+    font-size: 40px;
+    font-weight: 500;
+  }
