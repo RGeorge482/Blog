@@ -50,17 +50,17 @@
   
   
   .singlePostAuthor{
-    margin-left: 10px;
+    margin-left: 20px;
   }
 
   .singlePostDesc {
     color: #666;
-    font-size: 30px;
-    line-height: 20px;
+    font-size: 40px;
+    line-height: 25px;
   }
   
   .singlePostDesc::first-letter {
-    margin-left: 10px;
-    font-size: 40px;
-    font-weight: 500;
+    margin-left: 15px;
+    font-size: 35px;
+    font-weight: 600;
   }
