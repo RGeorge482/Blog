@@ -1,16 +1,16 @@
 .singlePost{
-    flex: 5;
+    flex: 9;
   }
   
   .singlePostWrapper {
-    padding: 30px;
-    padding-right: 35;
+    padding: 20px;
+    padding-right: 0;
   }
   
   .singlePostImg {
-    width: 150%;
-    height: 150px;
-    border-radius: 10px;
+    width: 100%;
+    height: 4000px;
+    border-radius: 5px;
     object-fit: cover;
   }
 
