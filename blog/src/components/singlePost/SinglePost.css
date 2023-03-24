@@ -55,12 +55,12 @@
 
   .singlePostDesc {
     color: #666;
-    font-size: 40px;
-    line-height: 25px;
+    font-size: 25px;
+    line-height: 15px;
   }
   
   .singlePostDesc::first-letter {
-    margin-left: 15px;
-    font-size: 35px;
-    font-weight: 600;
+    margin-left: 35px;
+    font-size: 40px;
+    font-weight: 500;
   }
