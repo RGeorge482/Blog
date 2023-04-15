@@ -28,5 +28,21 @@ export default function TopBar() {
                 {user && <li className="topListItem">LOGOUT</li>}
             </ul>
         </div>
+        <div className="topRight">
+            {user ? (
+                <Link className="link" to="/settings">
+                <img
+                    className="topImage"
+                    src="imgUser.png"
+                    alt=""
+                />
+                </Link>
+            ) : (
+                <ul className="topList">
+                <li>LOGIN</li>
+                </ul>
+            )}
+            
+    </div>
     </div>)
 }
