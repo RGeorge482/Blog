@@ -39,10 +39,19 @@ export default function TopBar() {
                 </Link>
             ) : (
                 <ul className="topList">
-                <li>LOGIN</li>
+                <li className="topListItem">
+                    <Link className="link" to="/login">
+                        LOGIN
+                    </Link>
+                </li>
+                <li className="topListItem">
+                    <Link className="link" to="/register">
+                    REGISTER
+                    </Link>
+                </li>
                 </ul>
             )}
-            
+         <i className="topSearchIcon fas fa-search"></i>   
     </div>
     </div>)
 }
