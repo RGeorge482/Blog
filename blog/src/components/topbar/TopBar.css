@@ -1,0 +1,11 @@
+.top{
+    width:80%;
+    height: 30px;
+    background-color: rgb(223, 223, 223);
+    position: sticky;
+    top: 0;
+    display: flex;
+    align-items: center;
+    font-family: sans-serif;
+    z-index: 999;
+  }
