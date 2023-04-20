@@ -9,3 +9,15 @@
     font-family: sans-serif;
     z-index: 999;
   }
+
+  .topLeft, .topRight {
+    flex: 3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .topCenter {
+    flex: 6;
+  }
+  
