@@ -34,3 +34,18 @@
     border-radius: 30%;
     object-fit: contain;
   }
+
+  .topList{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    padding: 5px;
+    list-style: none;
+  }
+  
+  .topListItem {
+    margin-right: 25px;
+    font-size: 12px;
+    font-weight: 200;
+    cursor: pointer;
+  }
