@@ -7,8 +7,8 @@ export default function Login() {
       <span className="loginTitle">Login</span>
       <form className="loginForm">
         <label>Email</label>
-        <input className="loginInput" type="text" placeholder="Enter your email..." />   
         
+
       </form>     
       </div>
   )
