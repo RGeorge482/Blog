@@ -8,7 +8,6 @@ export default function Login() {
       <form className="loginForm">
         <label>Email</label>
         <input className="loginInput" type="text" placeholder="Enter your email..." />   
-        
       </form>     
       </div>
   )
